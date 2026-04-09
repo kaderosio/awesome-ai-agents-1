@@ -93,6 +93,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
+### Agent Brain
+<div><a href="https://github.com/kaderosio/agent-brain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kaderosio/agent-brain"><img src="https://img.shields.io/github/stars/kaderosio/agent-brain?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Agent Brain is a 7-layer cognitive memory system for AI agents, built with FastAPI, PostgreSQL, pgvector, and spaCy. Self-hostable and requires no LLM for memory operations</p>
+
+<p><a href="https://github.com/kaderosio/agent-brain">github</a></p>
+</div>
+
 ### Agent Protocol
 <div><a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/github/stars/AI-Engineer-Foundation/agent-protocol?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,427 stars (Updated: 2025-07-30)</p>
